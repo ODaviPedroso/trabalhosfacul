@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+main, footer, header{
+    padding: 20px;
+}
+footer{
+    background-color: deepskyblue;
+    padding: 0px;
+}
+section{
+    background-color: cornsilk;
+}
